@@ -56,7 +56,7 @@ O projeto utiliza os seguintes recursos externos:
 
 1. Clone este repositório
 2. Abra o arquivo `index.html` em seu navegador
-3. Ou acesse através do GitHub Pages: [seu-usuario.github.io/portfolio-cursor](https://seu-usuario.github.io/portfolio-cursor)
+3. Ou acesse através do GitHub Pages: [seu-usuario.github.io/portfolio-cursor](https://leticiafuruse.github.io/Portfolio/)
 
 ## 📱 Responsividade
 
