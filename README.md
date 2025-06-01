@@ -1,6 +1,6 @@
 # Portfólio - Letícia Furuse
 
-Este é meu portfólio profissional, desenvolvido com HTML, CSS e JavaScript.
+Este é meu portfólio profissional
 
 ## 🚀 Estrutura do Projeto
 
@@ -76,4 +76,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Email: furuseleticia61@gmail.com
 - LinkedIn: [Letícia Furuse](https://www.linkedin.com/in/leticiafuruse/)
 - GitHub: [LeticiaFuruse](https://github.com/LeticiaFuruse)
-- Instagram: [@furuse_leticia](https://www.instagram.com/furuse_leticia/) 
