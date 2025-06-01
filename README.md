@@ -1,6 +1,14 @@
 # Portfólio - Letícia Furuse
 
 Este é meu portfólio profissional
+![image](https://github.com/user-attachments/assets/a42166e3-704f-4e48-9f0e-313e0991ff44)
+![image](https://github.com/user-attachments/assets/a901b5a7-071c-46d6-b62a-d9c8f831270e)
+![image](https://github.com/user-attachments/assets/3fa372fc-02eb-421d-bceb-c2708d99c76b)
+![image](https://github.com/user-attachments/assets/8ecead82-d584-412b-abd2-dfadabea239d)
+
+
+
+
 
 ## 🚀 Estrutura do Projeto
 
